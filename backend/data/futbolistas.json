@@ -30,5 +30,15 @@
         "posicion": "Delantero",    
         "dorsal": 7,
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhRk_Z4hAfQWipM6T-bX7ICx_KE4ECEp4PlK2BZbDyLSh8NgAQx16sTsc&s=10"   
+    },
+    {
+        "id": 4,
+        "nombre": "Erling Haaland",
+        "edad": 23,
+        "nacionalidad": "Noruega",
+        "equipo": "Manchester City",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
     }
 ] 
