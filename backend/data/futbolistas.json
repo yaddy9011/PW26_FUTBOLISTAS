@@ -7,7 +7,7 @@
         "equipo": "Inter Miami",
         "posicion": "Delantero",
         "dorsal": 10,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lionel_Messi_20180626.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
     },
     {
         "id": 2,
@@ -17,6 +17,27 @@
         "equipo": "Al Nassr",
         "posicion": "Delantero",
         "dorsal": 7,
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADw5wPaXSHmHyU1HUZSYJr5p1mDFntPxnZpxsboTwlQ&s"
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        
+    },
+{
+        "id": 3,
+        "nombre": "Qiliann Mbappée",
+        "edad": 25,
+        "nacionalidad": "Francia",
+        "equipo": "Real Madrid",
+        "posicion": "Delantero",    
+        "dorsal": 7,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhRk_Z4hAfQWipM6T-bX7ICx_KE4ECEp4PlK2BZbDyLSh8NgAQx16sTsc&s=10"   
+    },
+    {
+        "id": 4,
+        "nombre": "Erling Haaland",
+        "edad": 23,
+        "nacionalidad": "Noruega",
+        "equipo": "Manchester City",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
     }
 ]
