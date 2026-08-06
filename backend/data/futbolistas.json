@@ -20,5 +20,15 @@
         "dorsal": 7,
         "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
         
+    },
+{
+        "id": 3,
+        "nombre": "Mbappé",
+        "edad": 25,
+        "nacionalidad": "Francia",
+        "equipo": "Real Madrid",
+        "posicion": "Delantero",    
+        "dorsal": 7,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kylian_Mbapp%C3%A9_2022.jpg/800px-Kylian_Mbapp%C3%A9_2022.jpg"   
     }
 ]
