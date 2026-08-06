@@ -87,8 +87,6 @@ body {
   filter: drop-shadow(0 0 15px gold);
 }
 
-
-
 #center {
   display: flex;
   flex-direction: column;
