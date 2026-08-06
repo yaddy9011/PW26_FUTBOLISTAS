@@ -23,7 +23,7 @@
     },
 {
         "id": 3,
-        "nombre": "Mbappé",
+        "nombre": "Qiliann Mbappée",
         "edad": 25,
         "nacionalidad": "Francia",
         "equipo": "Real Madrid",
@@ -31,4 +31,4 @@
         "dorsal": 7,
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kylian_Mbapp%C3%A9_2022.jpg/800px-Kylian_Mbapp%C3%A9_2022.jpg"   
     }
-]
+] 
