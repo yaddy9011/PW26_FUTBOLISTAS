@@ -18,7 +18,18 @@
         "equipo": "Al Nassr",
         "posicion": "Delantero",
         "dorsal": 7,
-        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADw5wPaXSHmHyU1HUZSYJr5p1mDFntPxnZpxsboTwlQ&s"
+        
+    } ,
+    {
+        "id": 3,
+        "nombre": "Kylian Mbappé",
+        "edad": 24,
+        "nacionalidad": "Francia",
+        "equipo": "PSG",
+        "posicion": "Delantero",
+        "dorsal": 7,
+        "imagen":"https://www.google.com/imgres?q=Kylian%20Mbapp%C3%A9&imgurl=https%3A%2F%2Fimg.a.transfermarkt.technology%2Fportrait%2Fbig%2F342229-1682683695.jpg%3Flm%3D1&imgrefurl=https%3A%2F%2Fwww.transfermarkt.es%2Fkylian-mbappe%2Fprofil%2Fspieler%2F342229&docid=6OhgZFaLeVSmUM&tbnid=I1ziRvjtz-j3HM&vet=12ahUKEwiguNazkoyWAxWvJe8CHYsWJcoQnPAOegQIMhAA..i&w=300&h=390&hcb=2&ved=2ahUKEwiguNazkoyWAxWvJe8CHYsWJcoQnPAOegQIMhAA"
         
     }
 ]
