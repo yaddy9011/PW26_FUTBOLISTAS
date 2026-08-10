@@ -39,5 +39,315 @@
         "posicion": "Delantero",
         "dorsal": 9,
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 5,
+        "nombre": "Kevin De Bruyne",
+        "edad": 32,
+        "nacionalidad": "Bélgica",
+        "equipo": "Manchester City",
+        "posicion": "Centrocampista",
+        "dorsal": 17,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 6,
+        "nombre": "Virgil van Dijk",
+        "edad": 32,
+        "nacionalidad": "Países Bajos",
+        "equipo": "Liverpool",
+        "posicion": "Defensa",
+        "dorsal": 4,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 7,
+        "nombre": "Manuel Neuer",
+        "edad": 37,
+        "nacionalidad": "Alemania",
+        "equipo": "Bayern Múnich",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 8,
+        "nombre": "Neymar Jr.",
+        "edad": 31,
+        "nacionalidad": "Brasil",
+        "equipo": "Al-Hilal",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 9,
+        "nombre": "Luka Modrić",
+        "edad": 38,
+        "nacionalidad": "Croacia",
+        "equipo": "Real Madrid",
+        "posicion": "Centrocampista",
+        "dorsal": 10,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 10,
+        "nombre": "Robert Lewandowski",
+        "edad": 35,
+        "nacionalidad": "Polonia",
+        "equipo": "Barcelona",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 11,
+        "nombre": "Sergio Ramos",
+        "edad": 37,
+        "nacionalidad": "España",
+        "equipo": "Paris Saint-Germain",
+        "posicion": "Defensa",
+        "dorsal": 4,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 12,
+        "nombre": "Mohamed Salah",
+        "edad": 31,
+        "nacionalidad": "Egipto",
+        "equipo": "Liverpool",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 13,
+        "nombre": "Kylian Mbappé",
+        "edad": 25,
+        "nacionalidad": "Francia",
+        "equipo": "Paris Saint-Germain",
+        "posicion": "Delantero",
+        "dorsal": 7,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 14,
+        "nombre": "Karim Benzema",
+        "edad": 36,
+        "nacionalidad": "Francia",
+        "equipo": "Al-Ittihad",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 15,
+        "nombre": "Sadio Mané",
+        "edad": 31,
+        "nacionalidad": "Senegal",
+        "equipo": "Al-Nassr",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 16,
+        "nombre": "Gianluigi Donnarumma",
+        "edad": 25,
+        "nacionalidad": "Italia",
+        "equipo": "Paris Saint-Germain",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 17,
+        "nombre": "Joshua Kimmich",
+        "edad": 29,
+        "nacionalidad": "Alemania",
+        "equipo": "Bayern Múnich",
+        "posicion": "Centrocampista",
+        "dorsal": 6,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 18,
+        "nombre": "Raheem Sterling",
+        "edad": 29,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Chelsea",
+        "posicion": "Delantero",
+        "dorsal": 7,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 19,
+        "nombre": "Paul Pogba",
+        "edad": 30,
+        "nacionalidad": "Francia",
+        "equipo": "Juventus",
+        "posicion": "Centrocampista",
+        "dorsal": 6,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 20,
+        "nombre": "Sergio Agüero",
+        "edad": 35,
+        "nacionalidad": "Argentina",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 21,
+        "nombre": "Thiago Silva",
+        "edad": 39,
+        "nacionalidad": "Brasil",
+        "equipo": "Chelsea",
+        "posicion": "Defensa",
+        "dorsal": 2,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 22,
+        "nombre": "Toni Kroos",
+        "edad": 34,
+        "nacionalidad": "Alemania",
+        "equipo": "Real Madrid",
+        "posicion": "Centrocampista",
+        "dorsal": 8,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 23,
+        "nombre": "David Alaba",
+        "edad": 31,
+        "nacionalidad": "Austria",
+        "equipo": "Real Madrid",
+        "posicion": "Defensa",
+        "dorsal": 4,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 24,
+        "nombre": "Jadon Sancho",
+        "edad": 23,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Manchester United",
+        "posicion": "Delantero",
+        "dorsal": 25,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 25,
+        "nombre": "Marc-André ter Stegen",
+        "edad": 31,
+        "nacionalidad": "Alemania",
+        "equipo": "Barcelona",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 26,
+        "nombre": "Gerard Piqué",
+        "edad": 36,
+        "nacionalidad": "España",
+        "equipo": "Retirado",
+        "posicion": "Defensa",
+        "dorsal": 3,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 27,
+        "nombre": "Raúl Jiménez",
+        "edad": 32,
+        "nacionalidad": "México",
+        "equipo": "Wolverhampton Wanderers",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 28,
+        "nombre": "Ciro Immobile",
+        "edad": 34,
+        "nacionalidad": "Italia",
+        "equipo": "Lazio",
+        "posicion": "Delantero",
+        "dorsal": 17,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 29,
+        "nombre": "Angel Di María",
+        "edad": 36,
+        "nacionalidad": "Argentina",
+        "equipo": "Benfica",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 30,
+        "nombre": "Luis Suárez",
+        "edad": 37,
+        "nacionalidad": "Uruguay",
+        "equipo": "Grêmio",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 31,
+        "nombre": "Zlatan Ibrahimović",
+        "edad": 42,
+        "nacionalidad": "Suecia",
+        "equipo": "AC Milan",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 32,
+        "nombre": "Eden Hazard",
+        "edad": 32,
+        "nacionalidad": "Bélgica",
+        "equipo": "Real Madrid",
+        "posicion": "Delantero",
+        "dorsal": 7,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 33,
+        "nombre": "Harry Kane",
+        "edad": 30,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Bayern Múnich",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 34,
+        "nombre": "Romelu Lukaku",
+        "edad": 30,
+        "nacionalidad": "Bélgica",
+        "equipo": "Inter de Milán",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
+    },
+    {
+        "id": 35,
+        "nombre": "Vinícius Júnior",
+        "edad": 23,
+        "nacionalidad": "Brasil",
+        "equipo": "Real Madrid",
+        "posicion": "Delantero",
+        "dorsal": 20,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
     }
 ]
