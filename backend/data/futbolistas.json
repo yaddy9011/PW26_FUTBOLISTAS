@@ -186,7 +186,7 @@
         "equipo": "Manchester City",
         "posicion": "Centrocampista",
         "dorsal": 47,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Phil_Foden_2019.jpg"
+        "imagen": "https://i.pinimg.com/564x/6d/ec/34/6dec34eb2d3a1d87a0320d87ff2910a1.jpg"
     },
     {
         "id": 20,
@@ -196,7 +196,7 @@
         "equipo": "FC Barcelona",
         "posicion": "Centrocampista",
         "dorsal": 8,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pedri_2021.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRlA0JmuDThTU8QluEmo_u0nuHTpFrztWpK4mT921Mg&s=10"
     },
     {
         "id": 21,
@@ -206,7 +206,7 @@
         "equipo": "FC Barcelona",
         "posicion": "Centrocampista",
         "dorsal": 6,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gavi_2021.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3zmWLvK7iUz1MW2xthGaheulG-BzomWkzNqsnASDuQm2DyoguEw4yo8o&s=10"
     },
     {
         "id": 22,
@@ -216,7 +216,7 @@
         "equipo": "Manchester United",
         "posicion": "Centrocampista",
         "dorsal": 8,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bruno_Fernandes_2020.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdoLQrB0rlXsFt-vbjzygf4GG8EdFGkunw_OjP1NNRw&s"
     },
     {
         "id": 23,
@@ -226,7 +226,7 @@
         "equipo": "Manchester United",
         "posicion": "Centrocampista",
         "dorsal": 18,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Casemiro_2018.jpg"
+        "imagen": "https://www.zerozero.com.mx/img/jogadores/new/56/21/95621_casemiro_20250920212010.png"
     },
     {
         "id": 24,
@@ -236,7 +236,7 @@
         "equipo": "Real Madrid",
         "posicion": "Centrocampista",
         "dorsal": 5,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jude_Bellingham_2020.jpg"
+        "imagen": "https://tvazteca.brightspotcdn.com/dims4/default/fad511a/2147483647/strip/true/crop/5100x2874+0+333/resize/740x417!/format/webp/quality/100/?url=https%3A%2F%2Ftv-azteca-production-tv-azteca.s3.us-west-2.amazonaws.com%2Fbrightspot%2Ffd%2F3e%2F8634776e4e12b634803943b4f6ad%2Fjude-bellingham-festeja-su-gol-en-cuartos-de-final-entre-inglaterra-y-noruega-mundial-2026.jpeg"
     },{
         "id": 25,
         "nombre": "Vinícius Jr",
@@ -245,7 +245,7 @@
         "equipo": "Real Madrid",
         "posicion": "Delantero",
         "dorsal": 7,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vinicius_Junior_2019.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSXZ59mJOAkmHTLU-tJixwUa9y9_jDmrOsWfhPwDKpQC7JT7wrD8PTQw&s=10"
     },
     {
         "id": 26,
@@ -255,7 +255,7 @@
         "equipo": "Real Madrid",
         "posicion": "Delantero",
         "dorsal": 11,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rodrygo_Goes_2019.jpg"
+        "imagen": "https://i.pinimg.com/736x/f8/1d/4c/f81d4c91747b53f7cde1f84f04ceb292.jpg"
     },
     {
         "id": 27,
@@ -265,7 +265,7 @@
         "equipo": "Atlético de Madrid",
         "posicion": "Delantero",
         "dorsal": 7,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Antoine_Griezmann_2018.jpg"
+        "imagen": "https://www.tudn.com/_next/image?url=https%3A%2F%2Fst1.uvnimg.com%2Fb2%2F3f%2F25b823af41f7a4133c1d57f9c8b8%2Fgettyimages-527706110.jpg&w=1280&q=75"
     },
     {
         "id": 28,
@@ -275,7 +275,7 @@
         "equipo": "Atlético de Madrid",
         "posicion": "Delantero",
         "dorsal": 9,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alvaro_Morata_2017.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXroCV2uSu4T71BE0P-MHuWbPvMTztieQ2henWeaP7h4V1iX2FPTumdrQ&s=10"
     },
     {
         "id": 29,
@@ -285,7 +285,7 @@
         "equipo": "FC Barcelona",
         "posicion": "Delantero",
         "dorsal": 14,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Joao_Felix_2019.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8wjubu3jrHWra-K1TudX5zmnM-magD72UI44MBWB7ryc7zfroTpk4LA&s=10"
     },
     {
         "id": 30,
@@ -295,7 +295,7 @@
         "equipo": "Al Ahli",
         "posicion": "Delantero",
         "dorsal": 26,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Riyad_Mahrez_2018.jpg"
+        "imagen": "https://www.google.com/imgres?q=Riyad%20Mahrez&imgurl=https%3A%2F%2Fimg.a.transfermarkt.technology%2Fportrait%2Fbig%2F171424-1699948752.jpg%3Flm%3D1&imgrefurl=https%3A%2F%2Fwww.transfermarkt.mx%2Friyad-mahrez%2Falletore%2Fspieler%2F171424&docid=02fYwLvZdTfESM&tbnid=lNKA3-9RFA7uUM&vet=12ahUKEwimtsuY4JiWAxWWMEQIHS0XJCUQnPAOegQINBAA..i&w=300&h=390&hcb=2&ved=2ahUKEwimtsuY4JiWAxWWMEQIHS0XJCUQnPAOegQINBAA"
     },
     {
         "id": 31,
@@ -305,7 +305,7 @@
         "equipo": "Galatasaray",
         "posicion": "Centrocampista",
         "dorsal": 10,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hakim_Ziyech_2019.jpg"
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hakim_Ziyech_2020.jpg/250px-Hakim_Ziyech_2020.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "id": 32,
