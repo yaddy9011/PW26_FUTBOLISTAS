@@ -488,13 +488,13 @@
     },
     {
         "id": 50,
-        "nombre": "Alfredo",
-        "edad": 20,
-        "nacionalidad": "Mexicana",
-        "equipo": "ucad F.C",
-        "posicion": "Defensa",
-        "dorsal": 18,
-        "imagen": "https://www.facebook.com/photo/?fbid=1270261517508635&set=pob.100035743969938"
+        "nombre": "Francesco Totti",
+        "edad": 49,
+        "nacionalidad": "Italia",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Francesco_Totti_2010.jpg"
     }
 ]
 
