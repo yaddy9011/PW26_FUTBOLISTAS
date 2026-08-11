@@ -435,5 +435,67 @@
         "posicion": "Portero",
         "dorsal": 1,
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Iker_Casillas_2018.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "David Beckham",
+        "edad": 51,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Retirado",
+        "posicion": "Centrocampista",
+        "dorsal": 7,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Beckham_2010.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "Ronaldinho",
+        "edad": 46,
+        "nacionalidad": "Brasil",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ronaldinho_2010.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "Rivaldo",
+        "edad": 54,
+        "nacionalidad": "Brasil",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Rivaldo_2007.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "Thierry Henry",
+        "edad": 49,
+        "nacionalidad": "Francia",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 14,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Thierry_Henry_2010.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "Didier Drogba",
+        "edad": 48,
+        "nacionalidad": "Costa de Marfil",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Didier_Drogba_2012.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Alfredo",
+        "edad": 20,
+        "nacionalidad": "Mexicana",
+        "equipo": "ucad F.C",
+        "posicion": "Defensa",
+        "dorsal": 18,
+        "imagen": "https://www.facebook.com/photo/?fbid=1270261517508635&set=pob.100035743969938"
     }
 ]
+
+
