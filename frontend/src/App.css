@@ -5,7 +5,11 @@
   --secondary: #00c8ff;
   --gold: #ffd54a;
   --white: #ffffff;
-  --border: rgba(255, 255, 255, .15);
+  --border: rgba(255, 255, 255, 0.15);
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
@@ -13,10 +17,11 @@ body {
   font-family: "Segoe UI", sans-serif;
   color: var(--white);
   background:
-    linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.9)),
+    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),
     url("https://images.unsplash.com/photo-1543357480-c60d40007a3f?auto=format&fit=crop&w=1800&q=80");
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   overflow-x: hidden;
 }
 
@@ -29,17 +34,17 @@ body {
   border: 2px solid var(--primary);
   background: linear-gradient(135deg, #00ff88, #00994d);
   cursor: pointer;
-  transition: .35s;
-  box-shadow: 0 0 20px rgba(0,255,136,.5);
+  transition: 0.35s;
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.5);
 }
 
 .counter:hover {
   transform: translateY(-4px) scale(1.05);
-  box-shadow: 0 0 35px rgba(0,255,136,.9);
+  box-shadow: 0 0 35px rgba(0, 255, 136, 0.9);
 }
 
 .counter:active {
-  transform: scale(.96);
+  transform: scale(0.96);
 }
 
 .hero {
@@ -56,7 +61,11 @@ body {
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(0,255,136,.4), transparent 70%);
+  background: radial-gradient(
+    circle,
+    rgba(0, 255, 136, 0.4),
+    transparent 70%
+  );
   animation: pulse 4s infinite;
 }
 
@@ -122,18 +131,37 @@ body {
 }
 
 #next-steps > div {
-  background: rgba(255,255,255,.08);
+  background: rgba(255, 255, 255, 0.08);
   backdrop-filter: blur(12px);
-  border: 2px solid rgba(255,255,255,.12);
+  border: 2px solid rgba(255, 255, 255, 0.12);
   border-radius: 20px;
   padding: 30px;
-  transition: .35s;
+  transition: 0.35s;
 }
 
 #next-steps > div:hover {
   transform: translateY(-10px);
   border-color: var(--primary);
-  box-shadow: 0 0 30px rgba(0,255,136,.5);
+  box-shadow: 0 0 30px rgba(0, 255, 136, 0.5);
+}
+
+/* IMÁGENES DE LAS TARJETAS */
+#next-steps img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 15px;
+  border: 2px solid rgba(0, 255, 136, 0.4);
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.25);
+  transition: 0.35s;
+}
+
+#next-steps img:hover {
+  transform: scale(1.05);
+  border-color: var(--primary);
+  box-shadow: 0 0 30px rgba(0, 255, 136, 0.7);
 }
 
 .icon {
@@ -160,7 +188,7 @@ body {
   padding: 14px;
   border-radius: 15px;
   background: linear-gradient(135deg, #00994d, #00ff88);
-  transition: .3s;
+  transition: 0.3s;
   font-weight: bold;
 }
 
@@ -175,8 +203,8 @@ body {
     90deg,
     transparent,
     transparent 40px,
-    rgba(255,255,255,.05) 40px,
-    rgba(255,255,255,.05) 42px
+    rgba(255, 255, 255, 0.05) 40px,
+    rgba(255, 255, 255, 0.05) 42px
   );
 }
 
@@ -187,8 +215,8 @@ body {
 
 @keyframes pulse {
   0% {
-    transform: scale(.8);
-    opacity: .4;
+    transform: scale(0.8);
+    opacity: 0.4;
   }
 
   50% {
@@ -197,7 +225,33 @@ body {
   }
 
   100% {
-    transform: scale(.8);
-    opacity: .4;
+    transform: scale(0.8);
+    opacity: 0.4;
   }
+}
+
+/* CELULAR */
+@media (max-width: 768px) {
+  #center h1 {
+    font-size: 45px;
   }
+
+  #center p {
+    font-size: 18px;
+    padding: 0 20px;
+  }
+
+  #next-steps {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+
+  #next-steps img {
+    width: 160px;
+    height: 160px;
+  }
+
+  .hero {
+    padding: 30px;
+  }
+}
