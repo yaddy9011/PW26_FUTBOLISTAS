@@ -1,3 +1,4 @@
+import "./../style/form.css";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Formulario from "../components/Formulario";
