@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@ljharb/tsconfig": "^0.3.2",
+    "typescript": "^7.0.2"
+  }
+}

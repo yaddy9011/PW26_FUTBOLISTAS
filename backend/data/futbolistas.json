@@ -1,5 +1,4 @@
 [
-
     {
         "id": 1,
         "nombre": "Lionel Messi",
@@ -8,7 +7,7 @@
         "equipo": "Inter Miami",
         "posicion": "Delantero",
         "dorsal": 10,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lionel_Messi_20180626.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYeWwQvwphzbtVImBX3UCiW5BdDxveSFavrDqGqzGyPKRg9NcdP4MuuoJ&s=10"
     },
     {
         "id": 2,
@@ -23,12 +22,480 @@
     },
 {
         "id": 3,
-        "nombre": "Mbappé",
+        "nombre": "Qiliann Mbappée",
         "edad": 25,
         "nacionalidad": "Francia",
         "equipo": "Real Madrid",
         "posicion": "Delantero",    
         "dorsal": 7,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kylian_Mbapp%C3%A9_2022.jpg/800px-Kylian_Mbapp%C3%A9_2022.jpg"   
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhRk_Z4hAfQWipM6T-bX7ICx_KE4ECEp4PlK2BZbDyLSh8NgAQx16sTsc&s=10"   
+    },
+    {
+        "id": 4,
+        "nombre": "Erling Haaland",
+        "edad": 23,
+        "nacionalidad": "Noruega",
+        "equipo": "Manchester City",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://media.vogue.es/photos/6a4f72d373756ac0ada3ecda/2:3/w_2560%2Cc_limit/2284061618"
+    }, {
+        "id": 5,
+        "nombre": "Kevin De Bruyne",
+        "edad": 32,
+        "nacionalidad": "Bélgica",
+        "equipo": "Manchester City",
+        "posicion": "Centrocampista",
+        "dorsal": 17,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+        "id": 6,
+        "nombre": "Robert Lewandowski",
+        "edad": 35,
+        "nacionalidad": "Polonia",
+        "equipo": "FC Barcelona",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OfMNvpyLMHc728zVpRnoUxnK7jqD93LZUoRCGKKh6nVuYiBydb_flthS&s=10"
+    },
+    {
+        "id": 7,
+        "nombre": "Neymar Jr",
+        "edad": 31,
+        "nacionalidad": "Brasil",
+        "equipo": "Al Hilal",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://images.ctfassets.net/3mv54pzvptwz/7Jj4ryLGJazS8pDUlCK2Vg/10b71577e0270c8158d669b5fca17aa9/54331642772_05fa9ffe6b_o_dentro.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Mohamed Salah",
+        "edad": 31,
+        "nacionalidad": "Egipto",
+        "equipo": "Liverpool",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-04/250411-Mohamed-Salah-mn-0840-d890b7.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Virgil van Dijk",
+        "edad": 32,
+        "nacionalidad": "Países Bajos",
+        "equipo": "Liverpool",
+        "posicion": "Defensa",
+        "dorsal": 4,
+        "imagen": "https://preview.redd.it/happy-birthday-to-our-captain-virgil-van-dijk-v0-prth8pw56kbf1.jpeg?width=1080&crop=smart&auto=webp&s=a6903d02eaead86d8607e02c17e902076234d7b6"
+    },
+    {
+        "id": 10,
+        "nombre": "Luka Modrić",
+        "edad": 37,
+        "nacionalidad": "Croacia",
+        "equipo": "Real Madrid",
+        "posicion": "Centrocampista",
+        "dorsal": 10,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqDsWatK19ODVm5TEz9PYTdjYBpg5tjBzlXkeO7v2OSVJ_-5BcHNphI0&s=10"
+    },
+    {
+        "id": 11,
+        "nombre": "Toni Kroos",
+        "edad": 34,
+        "nacionalidad": "Alemania",
+        "equipo": "Real Madrid",
+        "posicion": "Centrocampista",
+        "dorsal": 8,
+        "imagen": "https://media.gq.com.mx/photos/6689751ed2384bcf282b44ff/2:3/w_1332,h_1998,c_limit/Toni%20Kroos%20madrid.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Karim Benzema",
+        "edad": 36,
+        "nacionalidad": "Francia",
+        "equipo": "Al Ittihad",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAcWXOcI10hNjlPHlqejZKr9AahXX0Sjs3hZmeMSdhPLTKALb2N85Rtnu&s=10"
+    },
+    {
+        "id": 13,
+        "nombre": "Harry Kane",
+        "edad": 30,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Bayern Múnich",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/05/gettyimages-2277924988.jpg?quality=90&strip=all&crop=0%2C0.91463414634146%2C100%2C98.170731707317&w=2400"
+    },
+    {
+        "id": 14,
+        "nombre": "Sergio Ramos",
+        "edad": 38,
+        "nacionalidad": "España",
+        "equipo": "Sevilla FC",
+        "posicion": "Defensa",
+        "dorsal": 4,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJqlxD55PrGosT-3ewuDTfHIisNjPgUik9xW1xmAjXvIOO-XKSmGAP4a7U&s=10"
+    }, {
+        "id": 15,
+        "nombre": "Manuel Neuer",
+        "edad": 38,
+        "nacionalidad": "Alemania",
+        "equipo": "Bayern Múnich",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouakRF3GoIgr7WOz6K-HXYzYSVsshwW9MuYwNbSOxGjMSMJpR7gv8Zms&s=10"
+    },
+    {
+        "id": 16,
+        "nombre": "Thibaut Courtois",
+        "edad": 32,
+        "nacionalidad": "Bélgica",
+        "equipo": "Real Madrid",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thibaut_Courtois_at_the_2018_World_Cup_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+        "id": 17,
+        "nombre": "Marc-André ter Stegen",
+        "edad": 32,
+        "nacionalidad": "Alemania",
+        "equipo": "FC Barcelona",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://www.fcbarcelona.com/photo-resources/2024/09/23/a18ca43c-3f0b-4bea-9f5c-0a51e1a17bb0/mini_Entrenament17092024__gp19997.jpg?width=1200&height=750"
+    },
+    {
+        "id": 18,
+        "nombre": "Joshua Kimmich",
+        "edad": 29,
+        "nacionalidad": "Alemania",
+        "equipo": "Bayern Múnich",
+        "posicion": "Centrocampista",
+        "dorsal": 6,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Joshua_Kimmich_850_0717.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Joshua_Kimmich_850_0717.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Phil Foden",
+        "edad": 24,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Manchester City",
+        "posicion": "Centrocampista",
+        "dorsal": 47,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Phil_Foden_2019.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Pedri González",
+        "edad": 21,
+        "nacionalidad": "España",
+        "equipo": "FC Barcelona",
+        "posicion": "Centrocampista",
+        "dorsal": 8,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pedri_2021.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Gavi Páez",
+        "edad": 20,
+        "nacionalidad": "España",
+        "equipo": "FC Barcelona",
+        "posicion": "Centrocampista",
+        "dorsal": 6,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gavi_2021.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Bruno Fernandes",
+        "edad": 29,
+        "nacionalidad": "Portugal",
+        "equipo": "Manchester United",
+        "posicion": "Centrocampista",
+        "dorsal": 8,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bruno_Fernandes_2020.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Casemiro",
+        "edad": 32,
+        "nacionalidad": "Brasil",
+        "equipo": "Manchester United",
+        "posicion": "Centrocampista",
+        "dorsal": 18,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Casemiro_2018.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Jude Bellingham",
+        "edad": 21,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Real Madrid",
+        "posicion": "Centrocampista",
+        "dorsal": 5,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jude_Bellingham_2020.jpg"
+    },{
+        "id": 25,
+        "nombre": "Vinícius Jr",
+        "edad": 24,
+        "nacionalidad": "Brasil",
+        "equipo": "Real Madrid",
+        "posicion": "Delantero",
+        "dorsal": 7,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vinicius_Junior_2019.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Rodrygo Goes",
+        "edad": 23,
+        "nacionalidad": "Brasil",
+        "equipo": "Real Madrid",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rodrygo_Goes_2019.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Antoine Griezmann",
+        "edad": 33,
+        "nacionalidad": "Francia",
+        "equipo": "Atlético de Madrid",
+        "posicion": "Delantero",
+        "dorsal": 7,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Antoine_Griezmann_2018.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Álvaro Morata",
+        "edad": 31,
+        "nacionalidad": "España",
+        "equipo": "Atlético de Madrid",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alvaro_Morata_2017.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "João Félix",
+        "edad": 26,
+        "nacionalidad": "Portugal",
+        "equipo": "FC Barcelona",
+        "posicion": "Delantero",
+        "dorsal": 14,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Joao_Felix_2019.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Riyad Mahrez",
+        "edad": 33,
+        "nacionalidad": "Argelia",
+        "equipo": "Al Ahli",
+        "posicion": "Delantero",
+        "dorsal": 26,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Riyad_Mahrez_2018.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Hakim Ziyech",
+        "edad": 31,
+        "nacionalidad": "Marruecos",
+        "equipo": "Galatasaray",
+        "posicion": "Centrocampista",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hakim_Ziyech_2019.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Achraf Hakimi",
+        "edad": 27,
+        "nacionalidad": "Marruecos",
+        "equipo": "PSG",
+        "posicion": "Defensa",
+        "dorsal": 2,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Achraf_Hakimi_2018.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Raphaël Varane",
+        "edad": 33,
+        "nacionalidad": "Francia",
+        "equipo": "Manchester United",
+        "posicion": "Defensa",
+        "dorsal": 19,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Raphael_Varane_2018.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Paul Pogba",
+        "edad": 33,
+        "nacionalidad": "Francia",
+        "equipo": "Juventus",
+        "posicion": "Centrocampista",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Paul_Pogba_2018.jpg"
+    }, {
+        "id": 35,
+        "nombre": "Paulo Dybala",
+        "edad": 32,
+        "nacionalidad": "Argentina",
+        "equipo": "AS Roma",
+        "posicion": "Delantero",
+        "dorsal": 21,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Paulo_Dybala_2018.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Ángel Di María",
+        "edad": 38,
+        "nacionalidad": "Argentina",
+        "equipo": "Benfica",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Angel_Di_Maria_2018.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Lautaro Martínez",
+        "edad": 29,
+        "nacionalidad": "Argentina",
+        "equipo": "Inter de Milán",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lautaro_Martinez_2019.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Romelu Lukaku",
+        "edad": 33,
+        "nacionalidad": "Bélgica",
+        "equipo": "Chelsea",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Romelu_Lukaku_2018.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Edin Džeko",
+        "edad": 38,
+        "nacionalidad": "Bosnia",
+        "equipo": "Fenerbahçe",
+        "posicion": "Delantero",
+        "dorsal": 9,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edin_Dzeko_2018.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Zlatan Ibrahimović",
+        "edad": 42,
+        "nacionalidad": "Suecia",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Zlatan_Ibrahimovic_2018.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "Gerard Piqué",
+        "edad": 39,
+        "nacionalidad": "España",
+        "equipo": "Retirado",
+        "posicion": "Defensa",
+        "dorsal": 3,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gerard_Pique_2018.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Andrés Iniesta",
+        "edad": 42,
+        "nacionalidad": "España",
+        "equipo": "Retirado",
+        "posicion": "Centrocampista",
+        "dorsal": 8,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Andres_Iniesta_2018.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "Xavi Hernández",
+        "edad": 46,
+        "nacionalidad": "España",
+        "equipo": "Retirado",
+        "posicion": "Centrocampista",
+        "dorsal": 6,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Xavi_Hernandez_2015.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Iker Casillas",
+        "edad": 45,
+        "nacionalidad": "España",
+        "equipo": "Retirado",
+        "posicion": "Portero",
+        "dorsal": 1,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Iker_Casillas_2018.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "David Beckham",
+        "edad": 51,
+        "nacionalidad": "Inglaterra",
+        "equipo": "Retirado",
+        "posicion": "Centrocampista",
+        "dorsal": 7,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/David_Beckham_2010.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "Ronaldinho",
+        "edad": 46,
+        "nacionalidad": "Brasil",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ronaldinho_2010.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "Rivaldo",
+        "edad": 54,
+        "nacionalidad": "Brasil",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 10,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Rivaldo_2007.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "Thierry Henry",
+        "edad": 49,
+        "nacionalidad": "Francia",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 14,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Thierry_Henry_2010.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "Didier Drogba",
+        "edad": 48,
+        "nacionalidad": "Costa de Marfil",
+        "equipo": "Retirado",
+        "posicion": "Delantero",
+        "dorsal": 11,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Didier_Drogba_2012.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Alfredo",
+        "edad": 20,
+        "nacionalidad": "Mexicana",
+        "equipo": "ucad F.C",
+        "posicion": "Defensa",
+        "dorsal": 18,
+        "imagen": "https://www.facebook.com/photo/?fbid=1270261517508635&set=pob.100035743969938"
     }
 ]
+
+
