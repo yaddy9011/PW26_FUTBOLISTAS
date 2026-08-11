@@ -127,7 +127,7 @@
         "equipo": "Bayern Múnich",
         "posicion": "Delantero",
         "dorsal": 9,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Harry_Kane_2018.jpg"
+        "imagen": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/05/gettyimages-2277924988.jpg?quality=90&strip=all&crop=0%2C0.91463414634146%2C100%2C98.170731707317&w=2400"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "equipo": "Sevilla FC",
         "posicion": "Defensa",
         "dorsal": 4,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sergio_Ramos_2018.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJqlxD55PrGosT-3ewuDTfHIisNjPgUik9xW1xmAjXvIOO-XKSmGAP4a7U&s=10"
     }, {
         "id": 15,
         "nombre": "Manuel Neuer",
@@ -146,7 +146,7 @@
         "equipo": "Bayern Múnich",
         "posicion": "Portero",
         "dorsal": 1,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Manuel_Neuer_2018.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouakRF3GoIgr7WOz6K-HXYzYSVsshwW9MuYwNbSOxGjMSMJpR7gv8Zms&s=10"
     },
     {
         "id": 16,
@@ -156,7 +156,7 @@
         "equipo": "Real Madrid",
         "posicion": "Portero",
         "dorsal": 1,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Thibaut_Courtois_2018.jpg"
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thibaut_Courtois_at_the_2018_World_Cup_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
     },
     {
         "id": 17,
@@ -166,7 +166,7 @@
         "equipo": "FC Barcelona",
         "posicion": "Portero",
         "dorsal": 1,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Marc-Andr%C3%A9_ter_Stegen_2018.jpg"
+        "imagen": "https://www.fcbarcelona.com/photo-resources/2024/09/23/a18ca43c-3f0b-4bea-9f5c-0a51e1a17bb0/mini_Entrenament17092024__gp19997.jpg?width=1200&height=750"
     },
     {
         "id": 18,
@@ -176,7 +176,7 @@
         "equipo": "Bayern Múnich",
         "posicion": "Centrocampista",
         "dorsal": 6,
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Joshua_Kimmich_2018.jpg"
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Joshua_Kimmich_850_0717.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Joshua_Kimmich_850_0717.jpg"
     },
     {
         "id": 19,
