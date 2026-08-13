@@ -111,7 +111,7 @@ code {
 }
 .foto-futbolista {
     width: 100%;
-    height: 250px;
+    height: 50px;
     object-fit: cover;
     object-position: top;
     border-radius: 12px;
