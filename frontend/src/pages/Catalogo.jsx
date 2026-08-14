@@ -1,60 +1,80 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import Tarjeta from "../components/Tarjeta";
 import { obtenerTodos, eliminar } from "../services/api";
+import Tarjeta from "../components/Tarjeta";
 
 function Catalogo() {
     const [datos, setDatos] = useState([]);
-    const [cargando, setCargando] = useState(true);
-    const [error, setError] = useState("");
-    async function cargarDatos() {
-        try {
-            setCargando(true);
-            const respuesta = await obtenerTodos();
-            setDatos(respuesta);
-            setError("");
-        } catch (error) {
-            setError(error.message);
-        }
-        finally {
-            setCargando(false);
-        }
-    }
+    const [busqueda, setBusqueda] = useState("");
+    const [filtroPosicion, setFiltroPosicion] = useState("Todas");
+
     useEffect(() => {
         cargarDatos();
     }, []);
-    async function manejarEliminar(id) {
-        const confirmar = window.confirm(
-            "¿Seguro que desea eliminar este registro?"
-        ); if (!confirmar) return;
+
+    async function cargarDatos() {
         try {
-            await eliminar(id);
-            setDatos(datos.filter((item) => item.id !== id));
+            const datosAPI = await obtenerTodos();
+            setDatos(datosAPI);
         } catch (error) {
             alert(error.message);
         }
-    } if (cargando) return <p>Cargando...</p>;
-    if (error) return <p>{error}</p>;
-        return (
+    }
+
+    async function manejarEliminar(id) {
+        if (confirm("¿Seguro que deseas eliminar?")) {
+            try {
+                await eliminar(id);
+                cargarDatos();
+            } catch (error) {
+                alert(error.message);
+            }
+        }
+    }
+
+    
+    const datosFiltrados = datos.filter((item) => {
+        const coincideNombre = item.nombre.toLowerCase().includes(busqueda.toLowerCase()) || 
+                               item.equipo.toLowerCase().includes(busqueda.toLowerCase());
+        const coincidePos = filtroPosicion === "Todas" || item.posicion === filtroPosicion;
+        return coincideNombre && coincidePos;
+    });
+
+    return (
         <main>
             <div className="encabezado-catalogo">
-                <h2>Plantilla ({datos.length})</h2>
+                <h2>Plantilla ({datosFiltrados.length})</h2>
                 <Link to="/agregar" className="btn-principal">+ Agregar nuevo</Link>
             </div>
+
+            {}
+            <div className="filtros-bar">
+                <input 
+                    type="text" 
+                    placeholder="🔍 Buscar por nombre o equipo..." 
+                    value={busqueda}
+                    onChange={(e) => setBusqueda(e.target.value)}
+                    className="input-busqueda"
+                />
+                <select value={filtroPosicion} onChange={(e) => setFiltroPosicion(e.target.value)} className="select-filtro">
+                    <option value="Todas">Todas las posiciones</option>
+                    <option value="Portero">Portero</option>
+                    <option value="Defensa">Defensa</option>
+                    <option value="Mediocampista">Mediocampista</option>
+                    <option value="Delantero">Delantero</option>
+                </select>
+            </div>
+
             <section className="catalogo-grid">
-                {datos.length === 0 ? (
-                    <p>No hay registros.</p>
+                {datosFiltrados.length === 0 ? (
+                    <p className="no-resultados">No se encontró a nadie con "{busqueda}" 😢</p>
                 ) : (
-                    datos.map((item) => (
-                        <Tarjeta
-                            key={item.id}
-                            item={item}
-                            onEliminar={manejarEliminar}
-                        />
+                    datosFiltrados.map((item) => (
+                        <Tarjeta key={item.id} item={item} onEliminar={manejarEliminar} />
                     ))
                 )}
             </section>
         </main>
     );
 }
-export default Catalogo; 
+export default Catalogo;

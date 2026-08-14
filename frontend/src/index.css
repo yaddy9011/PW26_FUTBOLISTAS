@@ -391,3 +391,74 @@ article {
   font-size: 16px;
   cursor: pointer;
 }
+
+/* --- EFECTO FAINAL --- */
+.tarjeta-fut.wow {
+  position: relative;
+  background: radial-gradient(circle at top left, #2a2a4a, #1e1e2f);
+  border: 1px solid rgba(170, 59, 255, 0.3);
+  box-shadow: 0 0 20px rgba(170, 59, 255, 0.15);
+  transition: all 0.3s ease;
+}
+.tarjeta-fut.wow:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 0 30px rgba(170, 59, 255, 0.5);
+  border-color: #aa3bff;
+}
+.tarjeta-fut.wow .rating {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: gold;
+  color: black;
+  font-weight: 900;
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+.tarjeta-fut.wow .stats {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+  font-size: 11px;
+  font-weight: 800;
+  color: #aa3bff;
+  letter-spacing: 1px;
+}
+
+/* --- FILTROS  --- */
+.filtros-bar {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 25px;
+  background: #1e1e2f;
+  padding: 15px;
+  border-radius: 14px;
+  border: 1px solid #2e303a;
+}
+.input-busqueda {
+  flex: 1;
+  padding: 12px 15px;
+  background: #12131a;
+  border: 1px solid #2e303a;
+  border-radius: 10px;
+  color: white;
+  outline: none;
+}
+.select-filtro {
+  padding: 12px;
+  background: #12131a;
+  border: 1px solid #2e303a;
+  border-radius: 10px;
+  color: white;
+  min-width: 180px;
+}
+.input-busqueda:focus, .select-filtro:focus {
+  border-color: #aa3bff;
+}
+.no-resultados {
+  grid-column: span 2;
+  text-align: center;
+  color: #9ca3af;
+  padding: 40px;
+}
