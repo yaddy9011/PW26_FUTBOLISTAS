@@ -35,13 +35,13 @@ function Catalogo() {
         }
     } if (cargando) return <p>Cargando...</p>;
     if (error) return <p>{error}</p>;
-    return (
+        return (
         <main>
             <div className="encabezado-catalogo">
-                <h2>Catálogo de Futbolistas</h2>
-                <Link to="/agregar">Agregar nuevo</Link>
+                <h2>Plantilla ({datos.length})</h2>
+                <Link to="/agregar" className="btn-principal">+ Agregar nuevo</Link>
             </div>
-            <section className="catalogo">
+            <section className="catalogo-grid">
                 {datos.length === 0 ? (
                     <p>No hay registros.</p>
                 ) : (

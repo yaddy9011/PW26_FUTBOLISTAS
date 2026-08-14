@@ -1,15 +1,23 @@
 import { Link } from "react-router-dom";
+
 function Tarjeta({ item, onEliminar }) {
-    return (<article className="tarjeta">
-        <img src={item.imagen} alt={item.nombre} 
-        className="foto-futbolista"/>
-        <h2>{item.nombre}</h2> <p><strong>Equipo:</strong> {item.equipo}</p>
-        <p><strong>Posición:</strong> {item.posicion}</p>
-        <p><strong>Nacionalidad:</strong> {item.nacionalidad}</p>
-        <p><strong>Dorsal:</strong> {item.dorsal}</p>
-        <div className="acciones">
-            <Link to={`/editar/${item.id}`}>           Editar         </Link>
-            <button onClick={() => onEliminar(item.id)}>           Eliminar         </button>
-        </div>     </article>);
+  return (
+    <div className="tarjeta-fut">
+      <div className="tarjeta-img">
+        <img src={item.imagen || item.foto || "https://via.placeholder.com/300"} alt={item.nombre} />
+        <span className="posicion">{item.posicion}</span>
+      </div>
+      <div className="tarjeta-info">
+        <h3>{item.nombre}</h3>
+        <p className="club">{item.club || item.equipo} • {item.nacionalidad}</p>
+        <p className="datos">#{item.dorsal} | {item.edad} años</p>
+        
+        <div className="tarjeta-botones">
+          <Link to={`/editar/${item.id}`} className="btn-editar">Editar</Link>
+          <button onClick={() => onEliminar(item.id)} className="btn-eliminar">Eliminar</button>
+        </div>
+      </div>
+    </div>
+  );
 }
-export default Tarjeta; 
+export default Tarjeta;

@@ -225,3 +225,106 @@ article {
   color: white;
   background: #aa3bff;
 }
+
+/* --- CATALOGO 2 COLUMNAS --- */
+.encabezado-catalogo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.encabezado-catalogo h2 {
+  font-size: 26px;
+}
+
+.catalogo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* TARJETA */
+.tarjeta-fut {
+  display: flex;
+  background: #1e1e2f;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid #2e303a;
+  transition: 0.2s;
+}
+.tarjeta-fut:hover {
+  transform: translateY(-4px);
+  border-color: #aa3bff;
+}
+
+.tarjeta-img {
+  width: 45%;
+  position: relative;
+  background: #000;
+}
+.tarjeta-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.tarjeta-img .posicion {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #aa3bff;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.tarjeta-info {
+  width: 55%;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.tarjeta-info h3 {
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+.tarjeta-info .club {
+  color: #9ca3af;
+  font-size: 14px;
+}
+.tarjeta-info .datos {
+  color: #d1d5db;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.tarjeta-botones {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+.btn-editar {
+  background: #2a2a4a;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
+.btn-eliminar {
+  background: #3a1a1a;
+  color: #ff6b6b;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .catalogo-grid {
+    grid-template-columns: 1fr;
+  }
+}
