@@ -1,501 +1,512 @@
 [
-    {
-        "id": 1,
-        "nombre": "Lionel Messi",
-        "edad": 36,
-        "nacionalidad": "Argentina",
-        "equipo": "Inter Miami",
-        "posicion": "Delantero",
-        "dorsal": 10,
-        "imagen": "/img-cata/messi.jpg"
-    },
-    {
-        "id": 2,
-        "nombre": "Cristiano Ronaldo",
-        "edad": 38,
-        "nacionalidad": "Portugal",
-        "equipo": "Al Nassr",
-        "posicion": "Delantero",
-        "dorsal": 7,
-        "imagen":"/img-cata/cristiano.jpg"
-        
-    },
-{
-        "id": 3,
-        "nombre": "Qiliann Mbappée",
-        "edad": 25,
-        "nacionalidad": "Francia",
-        "equipo": "Real Madrid",
-        "posicion": "Delantero",    
-        "dorsal": 7,
-        "imagen": "/img-cata/mbappe.jpg"   
-    },
-    {
-        "id": 4,
-        "nombre": "Erling Haaland",
-        "edad": 23,
-        "nacionalidad": "Noruega",
-        "equipo": "Manchester City",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/halaand.jpg"
-    }, {
-        "id": 5,
-        "nombre": "Kevin De Bruyne",
-        "edad": 32,
-        "nacionalidad": "Bélgica",
-        "equipo": "Manchester City",
-        "posicion": "Centrocampista",
-        "dorsal": 17,
-        "imagen": "/img-cata/kevin.jpg"
-    },
-    {
-        "id": 6,
-        "nombre": "Robert Lewandowski",
-        "edad": 35,
-        "nacionalidad": "Polonia",
-        "equipo": "FC Barcelona",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/lewandowsiki.jpg"
-    },
-    {
-        "id": 7,
-        "nombre": "Neymar Jr",
-        "edad": 31,
-        "nacionalidad": "Brasil",
-        "equipo": "Al Hilal",
-        "posicion": "Delantero",
-        "dorsal": 10,
-        "imagen": "/img-cata/neymar.jpg"
-    },
-    {
-        "id": 8,
-        "nombre": "Mohamed Salah",
-        "edad": 31,
-        "nacionalidad": "Egipto",
-        "equipo": "Liverpool",
-        "posicion": "Delantero",
-        "dorsal": 11,
-        "imagen": "/img-cata/mohamed.jpg"
-    },
-    {
-        "id": 9,
-        "nombre": "Virgil van Dijk",
-        "edad": 32,
-        "nacionalidad": "Países Bajos",
-        "equipo": "Liverpool",
-        "posicion": "Defensa",
-        "dorsal": 4,
-        "imagen": "/img-cata/virgil.jpg"
-    },
-    {
-        "id": 10,
-        "nombre": "Luka Modrić",
-        "edad": 37,
-        "nacionalidad": "Croacia",
-        "equipo": "Real Madrid",
-        "posicion": "Centrocampista",
-        "dorsal": 10,
-        "imagen": "/img-cata/luka.jpg"
-    },
-    {
-        "id": 11,
-        "nombre": "Toni Kroos",
-        "edad": 34,
-        "nacionalidad": "Alemania",
-        "equipo": "Real Madrid",
-        "posicion": "Centrocampista",
-        "dorsal": 8,
-        "imagen": "/img-cata/toni.jpg"
-    },
-    {
-        "id": 12,
-        "nombre": "Karim Benzema",
-        "edad": 36,
-        "nacionalidad": "Francia",
-        "equipo": "Al Ittihad",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/karim.jpg"
-    },
-    {
-        "id": 13,
-        "nombre": "Harry Kane",
-        "edad": 30,
-        "nacionalidad": "Inglaterra",
-        "equipo": "Bayern Múnich",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/harry.jpg"
-    },
-    {
-        "id": 14,
-        "nombre": "Sergio Ramos",
-        "edad": 38,
-        "nacionalidad": "España",
-        "equipo": "Sevilla FC",
-        "posicion": "Defensa",
-        "dorsal": 4,
-        "imagen": "/img-cata/sergio.jpg"
-    }, {
-        "id": 15,
-        "nombre": "Manuel Neuer",
-        "edad": 38,
-        "nacionalidad": "Alemania",
-        "equipo": "Bayern Múnich",
-        "posicion": "Portero",
-        "dorsal": 1,
-        "imagen": "/img-cata/manuel.jpg"
-    },
-    {
-        "id": 16,
-        "nombre": "Thibaut Courtois",
-        "edad": 32,
-        "nacionalidad": "Bélgica",
-        "equipo": "Real Madrid",
-        "posicion": "Portero",
-        "dorsal": 1,
-        "imagen": "/img-cata/curtua.jpg"
-    },
-    {
-        "id": 17,
-        "nombre": "Marc-André ter Stegen",
-        "edad": 32,
-        "nacionalidad": "Alemania",
-        "equipo": "FC Barcelona",
-        "posicion": "Portero",
-        "dorsal": 1,
-        "imagen": "/img-cata/terstegen.jpg"
-    },
-    {
-        "id": 18,
-        "nombre": "Joshua Kimmich",
-        "edad": 29,
-        "nacionalidad": "Alemania",
-        "equipo": "Bayern Múnich",
-        "posicion": "Centrocampista",
-        "dorsal": 6,
-        "imagen": "/img-cata/kimich.jpg"
-    },
-    {
-        "id": 19,
-        "nombre": "Phil Foden",
-        "edad": 24,
-        "nacionalidad": "Inglaterra",
-        "equipo": "Manchester City",
-        "posicion": "Centrocampista",
-        "dorsal": 47,
-        "imagen": "/img-cata/foden.jpg"
-    },
-    {
-        "id": 20,
-        "nombre": "Pedri González",
-        "edad": 21,
-        "nacionalidad": "España",
-        "equipo": "FC Barcelona",
-        "posicion": "Centrocampista",
-        "dorsal": 8,
-        "imagen": "/img-cata/pedri.jpg"
-    },
-    {
-        "id": 21,
-        "nombre": "Gavi Páez",
-        "edad": 20,
-        "nacionalidad": "España",
-        "equipo": "FC Barcelona",
-        "posicion": "Centrocampista",
-        "dorsal": 6,
-        "imagen": "/img-cata/gavi.jpg"
-    },
-    {
-        "id": 22,
-        "nombre": "Bruno Fernandes",
-        "edad": 29,
-        "nacionalidad": "Portugal",
-        "equipo": "Manchester United",
-        "posicion": "Centrocampista",
-        "dorsal": 8,
-        "imagen": "/img-cata/bruno.jpg"
-    },
-    {
-        "id": 23,
-        "nombre": "Casemiro",
-        "edad": 32,
-        "nacionalidad": "Brasil",
-        "equipo": "Manchester United",
-        "posicion": "Centrocampista",
-        "dorsal": 18,
-        "imagen": "/img-cata/casemiro.jpg"
-    },
-    {
-        "id": 24,
-        "nombre": "Jude Bellingham",
-        "edad": 21,
-        "nacionalidad": "Inglaterra",
-        "equipo": "Real Madrid",
-        "posicion": "Centrocampista",
-        "dorsal": 5,
-        "imagen": "/img-cata/jude.jpg"
-    },{
-        "id": 25,
-        "nombre": "Vinícius Jr",
-        "edad": 24,
-        "nacionalidad": "Brasil",
-        "equipo": "Real Madrid",
-        "posicion": "Delantero",
-        "dorsal": 7,
-        "imagen": "/img-cata/vini.jpg"
-    },
-    {
-        "id": 26,
-        "nombre": "Rodrygo Goes",
-        "edad": 23,
-        "nacionalidad": "Brasil",
-        "equipo": "Real Madrid",
-        "posicion": "Delantero",
-        "dorsal": 11,
-        "imagen": "/img-cata/rodrygo.jpg"
-    },
-    {
-        "id": 27,
-        "nombre": "Antoine Griezmann",
-        "edad": 33,
-        "nacionalidad": "Francia",
-        "equipo": "Atlético de Madrid",
-        "posicion": "Delantero",
-        "dorsal": 7,
-        "imagen": "/img-cata/grizman.jpg"
-    },
-    {
-        "id": 28,
-        "nombre": "Álvaro Morata",
-        "edad": 31,
-        "nacionalidad": "España",
-        "equipo": "Atlético de Madrid",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/morata.jpg"
-    },
-    {
-        "id": 29,
-        "nombre": "João Félix",
-        "edad": 26,
-        "nacionalidad": "Portugal",
-        "equipo": "FC Barcelona",
-        "posicion": "Delantero",
-        "dorsal": 14,
-        "imagen": "/img-cata/felix.jpg"
-    },
-    {
-        "id": 30,
-        "nombre": "Riyad Mahrez",
-        "edad": 33,
-        "nacionalidad": "Argelia",
-        "equipo": "Al Ahli",
-        "posicion": "Delantero",
-        "dorsal": 26,
-        "imagen": "/img-cata/riyad.jpg"
-    },
-    {
-        "id": 31,
-        "nombre": "Hakim Ziyech",
-        "edad": 31,
-        "nacionalidad": "Marruecos",
-        "equipo": "Galatasaray",
-        "posicion": "Centrocampista",
-        "dorsal": 10,
-        "imagen": "/img-cata/ziyech.jpg"
-    },
-    {
-        "id": 32,
-        "nombre": "Achraf Hakimi",
-        "edad": 27,
-        "nacionalidad": "Marruecos",
-        "equipo": "PSG",
-        "posicion": "Defensa",
-        "dorsal": 2,
-        "imagen": "/img-cata/hakimi.jpg"
-    },
-    {
-        "id": 33,
-        "nombre": "Raphaël Varane",
-        "edad": 33,
-        "nacionalidad": "Francia",
-        "equipo": "Manchester United",
-        "posicion": "Defensa",
-        "dorsal": 19,
-        "imagen": "/img-cata/varane.jpg"
-    },
-    {
-        "id": 34,
-        "nombre": "Paul Pogba",
-        "edad": 33,
-        "nacionalidad": "Francia",
-        "equipo": "Juventus",
-        "posicion": "Centrocampista",
-        "dorsal": 10,
-        "imagen": "/img-cata/pogba.jpg"
-    }, {
-        "id": 35,
-        "nombre": "Paulo Dybala",
-        "edad": 32,
-        "nacionalidad": "Argentina",
-        "equipo": "AS Roma",
-        "posicion": "Delantero",
-        "dorsal": 21,
-        "imagen": "/img-cata/dybala.jpg"
-    },
-    {
-        "id": 36,
-        "nombre": "Ángel Di María",
-        "edad": 38,
-        "nacionalidad": "Argentina",
-        "equipo": "Benfica",
-        "posicion": "Delantero",
-        "dorsal": 11,
-        "imagen": "/img-cata/dimaria.jpg"
-    },
-    {
-        "id": 37,
-        "nombre": "Lautaro Martínez",
-        "edad": 29,
-        "nacionalidad": "Argentina",
-        "equipo": "Inter de Milán",
-        "posicion": "Delantero",
-        "dorsal": 10,
-        "imagen": "/img-cata/lautaro.jpg"
-    },
-    {
-        "id": 38,
-        "nombre": "Romelu Lukaku",
-        "edad": 33,
-        "nacionalidad": "Bélgica",
-        "equipo": "Chelsea",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/lukaku.jpg"
-    },
-    {
-        "id": 39,
-        "nombre": "Edin Džeko",
-        "edad": 38,
-        "nacionalidad": "Bosnia",
-        "equipo": "Fenerbahçe",
-        "posicion": "Delantero",
-        "dorsal": 9,
-        "imagen": "/img-cata/dzko.jpg"
-    },
-    {
-        "id": 40,
-        "nombre": "Zlatan Ibrahimović",
-        "edad": 42,
-        "nacionalidad": "Suecia",
-        "equipo": "Retirado",
-        "posicion": "Delantero",
-        "dorsal": 11,
-        "imagen": "/img-cata/zlatan.jpg"
-    },
-    {
-        "id": 41,
-        "nombre": "Gerard Piqué",
-        "edad": 39,
-        "nacionalidad": "España",
-        "equipo": "Retirado",
-        "posicion": "Defensa",
-        "dorsal": 3,
-        "imagen": "/img-cata/pique.jpg"
-    },
-    {
-        "id": 42,
-        "nombre": "Andrés Iniesta",
-        "edad": 42,
-        "nacionalidad": "España",
-        "equipo": "Retirado",
-        "posicion": "Centrocampista",
-        "dorsal": 8,
-        "imagen": "/img-cata/iniesta.jpg"
-    },
-    {
-        "id": 43,
-        "nombre": "Xavi Hernández",
-        "edad": 46,
-        "nacionalidad": "España",
-        "equipo": "Retirado",
-        "posicion": "Centrocampista",
-        "dorsal": 6,
-        "imagen": "/img-cata/xavi.jpg"
-    },
-    {
-        "id": 44,
-        "nombre": "Iker Casillas",
-        "edad": 45,
-        "nacionalidad": "España",
-        "equipo": "Retirado",
-        "posicion": "Portero",
-        "dorsal": 1,
-        "imagen": "/img-cata/iker.jpg"
-    },
-    {
-        "id": 45,
-        "nombre": "David Beckham",
-        "edad": 51,
-        "nacionalidad": "Inglaterra",
-        "equipo": "Retirado",
-        "posicion": "Centrocampista",
-        "dorsal": 7,
-        "imagen": "/img-cata/beckham.jpg"
-    },
-    {
-        "id": 46,
-        "nombre": "Ronaldinho",
-        "edad": 46,
-        "nacionalidad": "Brasil",
-        "equipo": "Retirado",
-        "posicion": "Delantero",
-        "dorsal": 10,
-        "imagen": "/img-cata/ronaldinho.jpg"
-    },
-    {
-        "id": 47,
-        "nombre": "Rivaldo",
-        "edad": 54,
-        "nacionalidad": "Brasil",
-        "equipo": "Retirado",
-        "posicion": "Delantero",
-        "dorsal": 10,
-        "imagen": "/img-cata/rivaldo.jpg"
-    },
-    {
-        "id": 48,
-        "nombre": "Thierry Henry",
-        "edad": 49,
-        "nacionalidad": "Francia",
-        "equipo": "Retirado",
-        "posicion": "Delantero",
-        "dorsal": 14,
-        "imagen": "/img-cata/henry.jpg"
-    },
-    {
-        "id": 49,
-        "nombre": "Didier Drogba",
-        "edad": 48,
-        "nacionalidad": "Costa de Marfil",
-        "equipo": "Retirado",
-        "posicion": "Delantero",
-        "dorsal": 11,
-        "imagen": "/img-cata/drogba.jpg"
-    },
-    {
-        "id": 50,
-        "nombre": "Francesco Totti",
-        "edad": 49,
-        "nacionalidad": "Italia",
-        "equipo": "Retirado",
-        "posicion": "Delantero",
-        "dorsal": 10,
-        "imagen": "/img-cata/totti.jpg"
-    }
+  {
+    "id": 1,
+    "nombre": "Lionel Messi",
+    "edad": 36,
+    "nacionalidad": "Argentina",
+    "equipo": "Inter Miami",
+    "posicion": "Delantero",
+    "dorsal": 10,
+    "imagen": "/img-cata/messi.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Cristiano Ronaldo",
+    "edad": 38,
+    "nacionalidad": "Portugal",
+    "equipo": "Al Nassr",
+    "posicion": "Delantero",
+    "dorsal": 7,
+    "imagen": "/img-cata/cristiano.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Qiliann Mbappée",
+    "edad": 25,
+    "nacionalidad": "Francia",
+    "equipo": "Real Madrid",
+    "posicion": "Delantero",
+    "dorsal": 7,
+    "imagen": "/img-cata/mbappe.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Erling Haaland",
+    "edad": 23,
+    "nacionalidad": "Noruega",
+    "equipo": "Manchester City",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/halaand.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Kevin De Bruyne",
+    "edad": 32,
+    "nacionalidad": "Bélgica",
+    "equipo": "Manchester City",
+    "posicion": "Centrocampista",
+    "dorsal": 17,
+    "imagen": "/img-cata/kevin.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Robert Lewandowski",
+    "edad": 35,
+    "nacionalidad": "Polonia",
+    "equipo": "FC Barcelona",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/lewandowsiki.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Neymar Jr",
+    "edad": 31,
+    "nacionalidad": "Brasil",
+    "equipo": "Al Hilal",
+    "posicion": "Delantero",
+    "dorsal": 10,
+    "imagen": "/img-cata/neymar.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Mohamed Salah",
+    "edad": 31,
+    "nacionalidad": "Egipto",
+    "equipo": "Liverpool",
+    "posicion": "Delantero",
+    "dorsal": 11,
+    "imagen": "/img-cata/mohamed.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Virgil van Dijk",
+    "edad": 32,
+    "nacionalidad": "Países Bajos",
+    "equipo": "Liverpool",
+    "posicion": "Defensa",
+    "dorsal": 4,
+    "imagen": "/img-cata/virgil.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Luka Modrić",
+    "edad": 37,
+    "nacionalidad": "Croacia",
+    "equipo": "Real Madrid",
+    "posicion": "Centrocampista",
+    "dorsal": 10,
+    "imagen": "/img-cata/luka.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Toni Kroos",
+    "edad": 34,
+    "nacionalidad": "Alemania",
+    "equipo": "Real Madrid",
+    "posicion": "Centrocampista",
+    "dorsal": 8,
+    "imagen": "/img-cata/toni.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Karim Benzema",
+    "edad": 36,
+    "nacionalidad": "Francia",
+    "equipo": "Al Ittihad",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/karim.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Harry Kane",
+    "edad": 30,
+    "nacionalidad": "Inglaterra",
+    "equipo": "Bayern Múnich",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/harry.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Sergio Ramos",
+    "edad": 38,
+    "nacionalidad": "España",
+    "equipo": "Sevilla FC",
+    "posicion": "Defensa",
+    "dorsal": 4,
+    "imagen": "/img-cata/sergio.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Manuel Neuer",
+    "edad": 38,
+    "nacionalidad": "Alemania",
+    "equipo": "Bayern Múnich",
+    "posicion": "Portero",
+    "dorsal": 1,
+    "imagen": "/img-cata/manuel.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Thibaut Courtois",
+    "edad": 32,
+    "nacionalidad": "Bélgica",
+    "equipo": "Real Madrid",
+    "posicion": "Portero",
+    "dorsal": 1,
+    "imagen": "/img-cata/curtua.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Marc-André ter Stegen",
+    "edad": 32,
+    "nacionalidad": "Alemania",
+    "equipo": "FC Barcelona",
+    "posicion": "Portero",
+    "dorsal": 1,
+    "imagen": "/img-cata/terstegen.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Joshua Kimmich",
+    "edad": 29,
+    "nacionalidad": "Alemania",
+    "equipo": "Bayern Múnich",
+    "posicion": "Centrocampista",
+    "dorsal": 6,
+    "imagen": "/img-cata/kimich.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Phil Foden",
+    "edad": 24,
+    "nacionalidad": "Inglaterra",
+    "equipo": "Manchester City",
+    "posicion": "Centrocampista",
+    "dorsal": 47,
+    "imagen": "/img-cata/foden.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Pedri González",
+    "edad": 21,
+    "nacionalidad": "España",
+    "equipo": "FC Barcelona",
+    "posicion": "Centrocampista",
+    "dorsal": 8,
+    "imagen": "/img-cata/pedri.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Gavi Páez",
+    "edad": 20,
+    "nacionalidad": "España",
+    "equipo": "FC Barcelona",
+    "posicion": "Centrocampista",
+    "dorsal": 6,
+    "imagen": "/img-cata/gavi.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Bruno Fernandes",
+    "edad": 29,
+    "nacionalidad": "Portugal",
+    "equipo": "Manchester United",
+    "posicion": "Centrocampista",
+    "dorsal": 8,
+    "imagen": "/img-cata/bruno.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Casemiro",
+    "edad": 32,
+    "nacionalidad": "Brasil",
+    "equipo": "Manchester United",
+    "posicion": "Centrocampista",
+    "dorsal": 18,
+    "imagen": "/img-cata/casemiro.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Jude Bellingham",
+    "edad": 21,
+    "nacionalidad": "Inglaterra",
+    "equipo": "Real Madrid",
+    "posicion": "Centrocampista",
+    "dorsal": 5,
+    "imagen": "/img-cata/jude.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Vinícius Jr",
+    "edad": 24,
+    "nacionalidad": "Brasil",
+    "equipo": "Real Madrid",
+    "posicion": "Delantero",
+    "dorsal": 7,
+    "imagen": "/img-cata/vini.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Rodrygo Goes",
+    "edad": 23,
+    "nacionalidad": "Brasil",
+    "equipo": "Real Madrid",
+    "posicion": "Delantero",
+    "dorsal": 11,
+    "imagen": "/img-cata/rodrygo.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Antoine Griezmann",
+    "edad": 33,
+    "nacionalidad": "Francia",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Delantero",
+    "dorsal": 7,
+    "imagen": "/img-cata/grizman.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Álvaro Morata",
+    "edad": 31,
+    "nacionalidad": "España",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/morata.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "João Félix",
+    "edad": 26,
+    "nacionalidad": "Portugal",
+    "equipo": "FC Barcelona",
+    "posicion": "Delantero",
+    "dorsal": 14,
+    "imagen": "/img-cata/felix.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Riyad Mahrez",
+    "edad": 33,
+    "nacionalidad": "Argelia",
+    "equipo": "Al Ahli",
+    "posicion": "Delantero",
+    "dorsal": 26,
+    "imagen": "/img-cata/riyad.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Hakim Ziyech",
+    "edad": 31,
+    "nacionalidad": "Marruecos",
+    "equipo": "Galatasaray",
+    "posicion": "Centrocampista",
+    "dorsal": 10,
+    "imagen": "/img-cata/ziyech.jpg"
+  },
+  {
+    "id": 32,
+    "nombre": "Achraf Hakimi",
+    "edad": 27,
+    "nacionalidad": "Marruecos",
+    "equipo": "PSG",
+    "posicion": "Defensa",
+    "dorsal": 2,
+    "imagen": "/img-cata/hakimi.jpg"
+  },
+  {
+    "id": 33,
+    "nombre": "Raphaël Varane",
+    "edad": 33,
+    "nacionalidad": "Francia",
+    "equipo": "Manchester United",
+    "posicion": "Defensa",
+    "dorsal": 19,
+    "imagen": "/img-cata/varane.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "Paul Pogba",
+    "edad": 33,
+    "nacionalidad": "Francia",
+    "equipo": "Juventus",
+    "posicion": "Centrocampista",
+    "dorsal": 10,
+    "imagen": "/img-cata/pogba.jpg"
+  },
+  {
+    "id": 35,
+    "nombre": "Paulo Dybala",
+    "edad": 32,
+    "nacionalidad": "Argentina",
+    "equipo": "AS Roma",
+    "posicion": "Delantero",
+    "dorsal": 21,
+    "imagen": "/img-cata/dybala.jpg"
+  },
+  {
+    "id": 36,
+    "nombre": "Ángel Di María",
+    "edad": 38,
+    "nacionalidad": "Argentina",
+    "equipo": "Benfica",
+    "posicion": "Delantero",
+    "dorsal": 11,
+    "imagen": "/img-cata/dimaria.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Lautaro Martínez",
+    "edad": 29,
+    "nacionalidad": "Argentina",
+    "equipo": "Inter de Milán",
+    "posicion": "Delantero",
+    "dorsal": 10,
+    "imagen": "/img-cata/lautaro.jpg"
+  },
+  {
+    "id": 38,
+    "nombre": "Romelu Lukaku",
+    "edad": 33,
+    "nacionalidad": "Bélgica",
+    "equipo": "Chelsea",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/lukaku.jpg"
+  },
+  {
+    "id": 39,
+    "nombre": "Edin Džeko",
+    "edad": 38,
+    "nacionalidad": "Bosnia",
+    "equipo": "Fenerbahçe",
+    "posicion": "Delantero",
+    "dorsal": 9,
+    "imagen": "/img-cata/dzko.jpg"
+  },
+  {
+    "id": 40,
+    "nombre": "Zlatan Ibrahimović",
+    "edad": 42,
+    "nacionalidad": "Suecia",
+    "equipo": "Retirado",
+    "posicion": "Delantero",
+    "dorsal": 11,
+    "imagen": "/img-cata/zlatan.jpg"
+  },
+  {
+    "id": 41,
+    "nombre": "Gerard Piqué",
+    "edad": 39,
+    "nacionalidad": "España",
+    "equipo": "Retirado",
+    "posicion": "Defensa",
+    "dorsal": 3,
+    "imagen": "/img-cata/pique.jpg"
+  },
+  {
+    "id": 42,
+    "nombre": "Andrés Iniesta",
+    "edad": 42,
+    "nacionalidad": "España",
+    "equipo": "Retirado",
+    "posicion": "Centrocampista",
+    "dorsal": 8,
+    "imagen": "/img-cata/iniesta.jpg"
+  },
+  {
+    "id": 43,
+    "nombre": "Xavi Hernández",
+    "edad": 46,
+    "nacionalidad": "España",
+    "equipo": "Retirado",
+    "posicion": "Centrocampista",
+    "dorsal": 6,
+    "imagen": "/img-cata/xavi.jpg"
+  },
+  {
+    "id": 44,
+    "nombre": "Iker Casillas",
+    "edad": 45,
+    "nacionalidad": "España",
+    "equipo": "Retirado",
+    "posicion": "Portero",
+    "dorsal": 1,
+    "imagen": "/img-cata/iker.jpg"
+  },
+  {
+    "id": 45,
+    "nombre": "David Beckham",
+    "edad": 51,
+    "nacionalidad": "Inglaterra",
+    "equipo": "Retirado",
+    "posicion": "Centrocampista",
+    "dorsal": 7,
+    "imagen": "/img-cata/beckham.jpg"
+  },
+  {
+    "id": 46,
+    "nombre": "Ronaldinho",
+    "edad": 46,
+    "nacionalidad": "Brasil",
+    "equipo": "Retirado",
+    "posicion": "Delantero",
+    "dorsal": 10,
+    "imagen": "/img-cata/ronaldinho.jpg"
+  },
+  {
+    "id": 47,
+    "nombre": "Rivaldo",
+    "edad": 54,
+    "nacionalidad": "Brasil",
+    "equipo": "Retirado",
+    "posicion": "Delantero",
+    "dorsal": 10,
+    "imagen": "/img-cata/rivaldo.jpg"
+  },
+  {
+    "id": 48,
+    "nombre": "Thierry Henry",
+    "edad": 49,
+    "nacionalidad": "Francia",
+    "equipo": "Retirado",
+    "posicion": "Delantero",
+    "dorsal": 14,
+    "imagen": "/img-cata/henry.jpg"
+  },
+  {
+    "id": 49,
+    "nombre": "Didier Drogba",
+    "edad": "44",
+    "nacionalidad": "Costa de Marfil",
+    "equipo": "Retirado",
+    "posicion": "Delantero",
+    "dorsal": 11,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXH1jBID1TZRkoPJv3kPf1NDCUZn7AxEmTIHAmOz-1hw&s=10"
+  },
+  {
+    "id": 50,
+    "nombre": "Francesco Totti",
+    "edad": 49,
+    "nacionalidad": "Italia",
+    "equipo": "Retirado",
+    "posicion": "Delantero",
+    "dorsal": 10,
+    "imagen": "/img-cata/totti.jpg"
+  },
+  {
+    "id": 51,
+    "nombre": "Lamine Yamal",
+    "edad": "19",
+    "nacionalidad": "Española ",
+    "equipo": "Barcelona",
+    "posicion": "Lateral Derecho",
+    "dorsal": "10",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLS6fB3-VvNiu35rqTv39XCHy5aEl3SV87JslqhxsnMGjmxn-wSWEEIuI&s=10"
+  }
 ]
-
-

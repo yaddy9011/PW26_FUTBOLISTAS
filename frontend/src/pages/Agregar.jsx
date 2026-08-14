@@ -17,7 +17,6 @@ function Agregar() {
         evento.preventDefault();
         try {
             await crear(datos);
-            alert("Registro agregado correctamente");
             navigate("/catalogo");
         } catch (error) {
             alert(error.message);

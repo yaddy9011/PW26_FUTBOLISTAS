@@ -328,3 +328,66 @@ article {
     grid-template-columns: 1fr;
   }
 }
+/* --- FORMULARIO --- */
+.form-fut {
+  background: #1e1e2f;
+  padding: 25px;
+  border-radius: 16px;
+  border: 1px solid #2e303a;
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+.form-group {
+  display: flex!important;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 13px;
+  color: #9ca3af;
+  font-weight: 600;
+}
+.form-group.full {
+  width: 100%;
+}
+.form-group input {
+  padding: 12px;
+  background: #12131a;
+  border: 1px solid #2e303a;
+  border-radius: 10px;
+  color: white;
+  outline: none;
+}
+.form-group input:focus {
+  border-color: #aa3bff;
+}
+.preview-img {
+  margin: 10px auto;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #aa3bff;
+}
+.preview-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.btn-guardar {
+  width: 100%;
+  padding: 14px;
+  background: #aa3bff;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 800;
+  font-size: 16px;
+  cursor: pointer;
+}

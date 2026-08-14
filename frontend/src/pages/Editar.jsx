@@ -22,7 +22,6 @@ function Editar() {
         evento.preventDefault();
         try {
             await actualizar(id, datos);
-            alert("Registro actualizado correctamente");
             navigate("/catalogo");
         } catch (error) {
             alert(error.message);
