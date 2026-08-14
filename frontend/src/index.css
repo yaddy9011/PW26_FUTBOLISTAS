@@ -179,3 +179,49 @@ article {
 .btn-principal:hover {
   background: #c26bff;
 }
+
+/* --- NAVBAR --- */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background: #1a1a2e;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  border: 1px solid #2e303a;
+  position: sticky;
+  top: 15px;
+  z-index: 10;
+}
+
+.navbar-logo {
+  font-size: 22px;
+  font-weight: 800;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-links a {
+  color: #9ca3af;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+
+.navbar-links a:hover {
+  color: white;
+  background: #2a2a4a;
+}
+
+.navbar-links a.active {
+  color: white;
+  background: #aa3bff;
+}

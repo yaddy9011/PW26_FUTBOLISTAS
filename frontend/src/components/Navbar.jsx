@@ -1,13 +1,19 @@
-import { Link } from "react-router-dom";
-function Navbar() {
+import { Link, useLocation } from "react-router-dom";
 
-    return (<nav className="navbar">
-        <h1>Catálogo de Futbolistas</h1>
-        <div>
-            <Link to="/">Inicio</Link>
-            <Link to="/catalogo">Catálogo</Link>
-            <Link to="/agregar">Agregar</Link>
-        </div>
-    </nav>);
+function Navbar() {
+    const location = useLocation();
+    
+    return (
+        <nav className="navbar">
+            <Link to="/" className="navbar-logo">
+                ⚽ FutCatalog
+            </Link>
+            <div className="navbar-links">
+                <Link to="/" className={location.pathname === "/" ? "active" : ""}>Inicio</Link>
+                <Link to="/catalogo" className={location.pathname === "/catalogo" ? "active" : ""}>Catálogo</Link>
+                <Link to="/agregar" className={location.pathname === "/agregar" ? "active" : ""}>Agregar</Link>
+            </div>
+        </nav>
+    );
 }
-export default Navbar; 
+export default Navbar;
