@@ -62,6 +62,7 @@ function Catalogo() {
                     <option value="Defensa">Defensa</option>
                     <option value="Mediocampista">Mediocampista</option>
                     <option value="Delantero">Delantero</option>
+                    <option value="Centrocampista">Centrocampista</option>
                 </select>
             </div>
 

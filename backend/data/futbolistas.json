@@ -508,5 +508,15 @@
     "posicion": "Lateral Derecho",
     "dorsal": "10",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLS6fB3-VvNiu35rqTv39XCHy5aEl3SV87JslqhxsnMGjmxn-wSWEEIuI&s=10"
+  },
+  {
+    "id": 52,
+    "nombre": "Gilberto Mora",
+    "edad": "17",
+    "nacionalidad": "Mexicana",
+    "equipo": "Xolos",
+    "posicion": "Mediocampista",
+    "dorsal": "10",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5gJ7KxqIHXaYlukuEbgu6JjJVZ59rive_ep9n5-Il2SlgYwXoFJ0yf4&s=10"
   }
 ]
